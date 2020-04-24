@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: 6692c6641eb6fd5ad9bd0bcc6c041f79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7086287932117018057
+    second: Slime_Medium_Blue_0
+  - first:
+      213: -4566095972586797713
+    second: Slime_Medium_Blue_1
+  - first:
+      213: -661841080015379180
+    second: Slime_Medium_Blue_2
+  - first:
+      213: 6622098690679349357
+    second: Slime_Medium_Blue_3
+  - first:
+      213: 7989177362625128545
+    second: Slime_Medium_Blue_4
+  - first:
+      213: 5482162301914685816
+    second: Slime_Medium_Blue_5
+  - first:
+      213: 5768092500675844308
+    second: Slime_Medium_Blue_6
+  - first:
+      213: 2539407865963628665
+    second: Slime_Medium_Blue_7
+  - first:
+      213: -9121874701587882525
+    second: Slime_Medium_Blue_8
+  - first:
+      213: -8581163554954892504
+    second: Slime_Medium_Blue_9
+  - first:
+      213: -1729396398593892154
+    second: Slime_Medium_Blue_10
+  - first:
+      213: -6585507646443521195
+    second: Slime_Medium_Blue_11
+  - first:
+      213: 8088558050028503799
+    second: Slime_Medium_Blue_12
+  - first:
+      213: 8132251883904641431
+    second: Slime_Medium_Blue_13
+  - first:
+      213: -1058253517331424735
+    second: Slime_Medium_Blue_14
+  - first:
+      213: 7452818884153078271
+    second: Slime_Medium_Blue_15
+  - first:
+      213: 4029350153290130248
+    second: Slime_Medium_Blue_0
+  - first:
+      213: 6292734835242753819
+    second: Slime_Medium_Blue_16
+  - first:
+      213: -7171215833080103640
+    second: Slime_Medium_Blue_17
+  - first:
+      213: -8849392560808460800
+    second: Slime_Medium_Blue_18
+  - first:
+      213: 6585856789683544375
+    second: Slime_Medium_Blue_19
+  - first:
+      213: 3822309092818680572
+    second: Slime_Medium_Blue_20
+  - first:
+      213: 170088186876461617
+    second: Slime_Medium_Blue_21
+  - first:
+      213: -3340167327178765820
+    second: Slime_Medium_Blue_22
+  - first:
+      213: -6433632730267866865
+    second: Slime_Medium_Blue_23
+  - first:
+      213: 222823440971819243
+    second: Slime_Medium_Blue_24
+  - first:
+      213: 4561486285047646716
+    second: Slime_Medium_Blue_25
+  - first:
+      213: -1094780236561991966
+    second: Slime_Medium_Blue_26
+  - first:
+      213: 3757214345286833534
+    second: Slime_Medium_Blue_27
+  - first:
+      213: -2009884390713851051
+    second: Slime_Medium_Blue_28
+  - first:
+      213: -6773319136151064429
+    second: Slime_Medium_Blue_29
+  - first:
+      213: -1317099394558593854
+    second: Slime_Medium_Blue_30
+  - first:
+      213: -4824078692629598945
+    second: Slime_Medium_Blue_31
+  - first:
+      213: 6010020551636224885
+    second: Slime_Medium_Blue_32
+  - first:
+      213: 1110606865559638848
+    second: Slime_Medium_Blue_33
+  - first:
+      213: 6971850703147996121
+    second: Slime_Medium_Blue_34
+  - first:
+      213: -7791537622796797086
+    second: Slime_Medium_Blue_35
+  - first:
+      213: -939150174469245596
+    second: Slime_Medium_Blue_36
+  - first:
+      213: 2418671134212369287
+    second: Slime_Medium_Blue_37
+  - first:
+      213: -8353888958957936358
+    second: Slime_Medium_Blue_38
+  - first:
+      213: 5226410356765763958
+    second: Slime_Medium_Blue_39
+  - first:
+      213: -7541886893306286639
+    second: Slime_Medium_Blue_40
+  - first:
+      213: -4775227593585568492
+    second: Slime_Medium_Blue_41
+  - first:
+      213: -3012076498091476018
+    second: Slime_Medium_Blue_42
+  - first:
+      213: -7522774552954039582
+    second: Slime_Medium_Blue_43
+  - first:
+      213: -8760233462120623530
+    second: Slime_Medium_Blue_44
+  - first:
+      213: -7754930906365206365
+    second: Slime_Medium_Blue_45
+  - first:
+      213: 6321272309368674431
+    second: Slime_Medium_Blue_46
+  - first:
+      213: -6114175288368091672
+    second: Slime_Medium_Blue_47
+  - first:
+      213: -620396349680529360
+    second: Slime_Medium_Blue_48
+  - first:
+      213: -8835143086121181599
+    second: Slime_Medium_Blue_49
+  - first:
+      213: 815308346023900104
+    second: Slime_Medium_Blue_50
+  - first:
+      213: -6993975653597579761
+    second: Slime_Medium_Blue_51
+  - first:
+      213: -4333544086088050339
+    second: Slime_Medium_Blue_52
+  - first:
+      213: 3083733049274982724
+    second: Slime_Medium_Blue_53
+  - first:
+      213: -4738553613953787262
+    second: Slime_Medium_Blue_54
+  - first:
+      213: 6064327293283022513
+    second: Slime_Medium_Blue_55
+  - first:
+      213: -3516659213578235202
+    second: Slime_Medium_Blue_56
+  - first:
+      213: 4326083424428325105
+    second: Slime_Medium_Blue_57
+  - first:
+      213: 9165528323355474185
+    second: Slime_Medium_Blue_58
+  - first:
+      213: -9201397710763232965
+    second: Slime_Medium_Blue_59
+  - first:
+      213: -1200478613769637400
+    second: Slime_Medium_Blue_60
+  - first:
+      213: -2535208706588746806
+    second: Slime_Medium_Blue_61
+  - first:
+      213: 3911404721792515543
+    second: Slime_Medium_Blue_62
+  - first:
+      213: 7439802748530426753
+    second: Slime_Medium_Blue_63
+  - first:
+      213: -6263708111323492089
+    second: Slime_Medium_Blue_1
+  - first:
+      213: 8711831842663620057
+    second: Slime_Medium_Blue_2
+  - first:
+      213: 5455942226922337703
+    second: Slime_Medium_Blue_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8432682bd902be730800000000000000
+      internalID: 4029350153290130248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70194d7c8a6d219a0800000000000000
+      internalID: -6263708111323492089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddd6e457e4a6e870800000000000000
+      internalID: 8711831842663620057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a572ce6c8667bb40800000000000000
+      internalID: 5455942226922337703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168ecda9b724fde60800000000000000
+      internalID: 7989177362625128545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871a9ae519d841c40800000000000000
+      internalID: 5482162301914685816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8d06691916c0050800000000000000
+      internalID: 5768092500675844308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978489eeff9cd3320800000000000000
+      internalID: 2539407865963628665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed5b36e947986180800000000000000
+      internalID: -9121874701587882525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ba263363599e880800000000000000
+      internalID: -8581163554954892504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0a8f16323fff7e0800000000000000
+      internalID: -1729396398593892154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b7d14efa39b94a0800000000000000
+      internalID: -6585507646443521195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2431501b4504070800000000000000
+      internalID: 8088558050028503799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799232c70009bd070800000000000000
+      internalID: 8132251883904641431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a172968045051f0800000000000000
+      internalID: -1058253517331424735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Slime_Medium_Blue_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff17445d94bbd6760800000000000000
+      internalID: 7452818884153078271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
