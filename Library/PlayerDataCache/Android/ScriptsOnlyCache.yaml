@@ -54,10 +54,12 @@ ScriptsOnlyBuild:
     - UnityEditor.Rendering.Universal.UniversalProjectSettings
     Unity.RenderPipelines.Universal.Runtime.dll:
     - UnityEngine.Experimental.Rendering.Universal.Light2D
+    - UnityEngine.Experimental.Rendering.Universal.PixelPerfectCamera
     - UnityEngine.Experimental.Rendering.Universal.Renderer2DData
     - UnityEngine.Rendering.Universal.PostProcessData
     - UnityEngine.Rendering.Universal.UniversalAdditionalCameraData
     - UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset
+    - UnityEngine.Rendering.Universal.UniversalRenderPipelineEditorResources
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.dll:
@@ -158,6 +160,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 14798}
     - Class: 114
       Script: {instanceID: 14902}
+    - Class: 114
+      Script: {instanceID: 14972}
     - Class: 114
       Script: {instanceID: 15294}
     - Class: 114
@@ -1592,4 +1596,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Menu.unity
   - Assets/Scenes/MainGame.unity
-  playerPath: /home/vladk/Unity/Projects/KeepItAlive/Build/Android/debug.apk
+  playerPath: /home/vladk/Unity/Projects/DarkForest/Build/Android/debug.apk

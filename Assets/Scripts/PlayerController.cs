@@ -80,11 +80,7 @@ public class PlayerController : MonoBehaviour
             --tourch.Find("Point Light 2D").GetComponent<Light2D>().pointLightOuterRadius;
         }
 
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundDistance, groundMask);
-        if (isGrounded) {
-            extraJumps = 2;
-            animator.SetBool("isJumping", false);
-        }
+        
 
         float moveHorizontal = 1; // Input.GetAxis("Horizontal");
         float moveVertical = Input.GetAxis("Vertical");
@@ -115,6 +111,14 @@ public class PlayerController : MonoBehaviour
         UpdateTorch();
     }
 
+    private void FixedUpdate() {
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundDistance, groundMask);
+        if (isGrounded) {
+            extraJumps = 1;
+            animator.SetBool("isJumping", false);
+        }
+    }
+
     private void Flip() {
 		facingRight = !facingRight;
 		Vector3 Scaler = transform.localScale;
@@ -132,6 +136,7 @@ public class PlayerController : MonoBehaviour
             }
         }
          if (other.gameObject.CompareTag("Enemy")) {
+            other.gameObject.GetComponent<Collider2D>().isTrigger = true;
             audioSource[1].Play();
             Destroy(other.gameObject);
             gameController.AddScore(10);
