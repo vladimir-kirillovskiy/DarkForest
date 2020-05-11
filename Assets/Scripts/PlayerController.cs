@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
     public LayerMask groundMask;
     public Transform groundCheck;
     public Transform tourch;
+    public ParticleSystem dust;
     public bool isGrounded = true;
     public float groundDistance = 0.4f;
     public float speed = 50.0f;
@@ -58,7 +59,7 @@ public class PlayerController : MonoBehaviour
         timer += Time.deltaTime;
 
         if (timer > 1.0f) {
-            score = 1;
+            score = 1 * (int)(speed / 100);
             gameController.AddScore(score);
             timer = 0.0f;
             speed++;
@@ -90,7 +91,19 @@ public class PlayerController : MonoBehaviour
         rb.velocity = new Vector2(moveHorizontal * speed * Time.deltaTime, rb.velocity.y);
         animator.SetFloat("Speed", Mathf.Abs(moveHorizontal));
 
-        if ((Input.GetButtonDown("Jump") || Input.GetButtonDown("Fire1")) && (isGrounded || extraJumps > 0)) {
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundDistance, groundMask);
+        if (isGrounded) {
+            extraJumps = 2;
+            animator.SetBool("isJumping", false);
+        }
+
+
+        if (
+            (Input.GetButtonDown("Jump") || Input.GetButtonDown("Fire1")) &&
+            (isGrounded || extraJumps > 0)
+        ) {
+            audioSource[2].Play();
+            if (isGrounded) CreateDust();
             animator.SetBool("isJumping", true);
             rb.velocity = Vector2.up * jumpHeight;
             extraJumps--;
@@ -101,7 +114,7 @@ public class PlayerController : MonoBehaviour
         } else if (rb.velocity.y > 0 && !(Input.GetButtonDown("Jump") || Input.GetButtonDown("Fire1"))) {
 			rb.velocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier - 1) * Time.deltaTime;
 		}
-        
+
         if (facingRight && moveHorizontal >= 0.5f) {
 			Flip();
 		} else if (!facingRight && moveHorizontal <= -0.5f) {
@@ -109,14 +122,6 @@ public class PlayerController : MonoBehaviour
 		}
 
         UpdateTorch();
-    }
-
-    private void FixedUpdate() {
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundDistance, groundMask);
-        if (isGrounded) {
-            extraJumps = 1;
-            animator.SetBool("isJumping", false);
-        }
     }
 
     private void Flip() {
@@ -185,4 +190,9 @@ public class PlayerController : MonoBehaviour
                 break;
         }
     }
+
+    void CreateDust() {
+        dust.Play();
+    }
+
 }

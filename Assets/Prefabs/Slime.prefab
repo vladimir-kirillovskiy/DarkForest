@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4454896158984297718}
   - component: {fileID: 4454896158984297719}
   - component: {fileID: 4454896158984297716}
-  - component: {fileID: 4454896158984297717}
+  - component: {fileID: 3568332837245633999}
   m_Layer: 0
   m_Name: Slime
   m_TagString: Enemy
@@ -120,7 +120,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.00040197372, y: -0.017630935}
+  m_Offset: {x: 0.00040197372, y: -0.035969496}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -131,7 +131,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.17369938, y: 0.25098538}
+  m_Size: {x: 0.27849102, y: 0.21430826}
   m_EdgeRadius: 0
 --- !u!50 &4454896158984297719
 Rigidbody2D:
@@ -167,8 +167,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: -100
---- !u!58 &4454896158984297717
-CircleCollider2D:
+--- !u!61 &3568332837245633999
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -180,9 +180,19 @@ CircleCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0086426735, y: 0.16354126}
+  m_Offset: {x: -0.00785923, y: 0.20434347}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
   serializedVersion: 2
-  m_Radius: 0.030973613
+  m_Size: {x: 0.19834518, y: 0.098792255}
+  m_EdgeRadius: 0
 --- !u!1 &4454896160582741399
 GameObject:
   m_ObjectHideFlags: 0

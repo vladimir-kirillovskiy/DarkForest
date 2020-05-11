@@ -1,4 +1,4 @@
-#Wed Apr 29 00:32:45 MSK 2020
+#Mon May 11 18:39:55 MSK 2020
 base.0=/home/vladk/Unity/Projects/DarkForest/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
 path.0=classes.dex
 renamed.0=classes.dex

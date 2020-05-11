@@ -1,19 +1,18 @@
-Coins for fire 
-- Make change to fire intencity - Done
-- Make coins to affect it
-- controll hound distance based on fire intencity - Done
-- add bats?
-
+add bats?
 some death animation
-hound to kill player is fire = 0
+hound to kill player if fire = 0 - done
 
-UI
-Menu
+get new sounds - forest sounds for gameplay, minor ambient for menu?
+get icon - done
+get background for menu
+replace orb count - 5 grey orbs -> 5 red orbs - did a bit different 
 
-Sound
+Improve difficulty curve
 
-difficulty curve:
-- make it faster? Done
+Dust particles - done
+small camera shake
 
-soundscape02 - game music
-ambience01 - menu
+Jump sound - Done
+
+
+credits page

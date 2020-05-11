@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Apr 29 00:32:45 MSK 2020
+#Mon May 11 18:39:55 MSK 2020
 60.set=ASSET
 52.set=ASSET
 53.base=/home/vladk/Unity/Projects/DarkForest/Temp/gradleOut/launcher/build/intermediates/merged_assets/release/out
@@ -35,7 +35,7 @@
 25.baseType=DIRECTORY
 100.path=bin/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
 43.set=ASSET
-107.path=bin/Data/Managed/Unity.RenderPipelines.Core.Runtime.dll
+107.path=bin/Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll
 35.set=ASSET
 27.set=ASSET
 63.path=bin/Data/Managed/System.ServiceModel.Internals.dll
@@ -99,7 +99,7 @@
 30.baseType=DIRECTORY
 33.set=ASSET
 9.baseType=DIRECTORY
-106.path=bin/Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll
+106.path=bin/Data/Managed/Assembly-CSharp.dll
 25.set=ASSET
 17.set=ASSET
 95.set=ASSET
@@ -163,7 +163,7 @@
 101.baseType=DIRECTORY
 23.set=ASSET
 99.baseType=DIRECTORY
-105.path=bin/Data/Managed/Assembly-CSharp.dll
+105.path=bin/Data/Managed/System.Xml.dll
 15.set=ASSET
 59.baseType=DIRECTORY
 93.set=ASSET
@@ -220,6 +220,7 @@
 58.path=bin/Data/Managed/UnityEngine.AndroidJNIModule.dll
 108.set=ASSET
 34.baseType=DIRECTORY
+110.base=/home/vladk/Unity/Projects/DarkForest/Temp/gradleOut/launcher/build/intermediates/merged_assets/release/out
 11.path=bin/Data/Managed/UnityEngine.LocalizationModule.dll
 26.base=/home/vladk/Unity/Projects/DarkForest/Temp/gradleOut/launcher/build/intermediates/merged_assets/release/out
 103.baseType=DIRECTORY
@@ -228,7 +229,7 @@
 13.set=ASSET
 91.set=ASSET
 64.baseType=DIRECTORY
-104.path=bin/Data/Managed/System.Xml.dll
+104.path=bin/Data/sharedassets0.resource
 24.baseType=DIRECTORY
 83.set=ASSET
 75.set=ASSET
@@ -280,7 +281,7 @@
 50.path=bin/Data/Managed/UnityEngine.UNETModule.dll
 106.set=ASSET
 65.base=/home/vladk/Unity/Projects/DarkForest/Temp/gradleOut/launcher/build/intermediates/merged_assets/release/out
-count=110
+count=111
 57.path=bin/Data/Managed/Unity.2D.Common.Runtime.dll
 105.baseType=DIRECTORY
 10.path=bin/Data/Managed/UnityEngine.ProfilerModule.dll
@@ -304,6 +305,7 @@ count=110
 49.set=ASSET
 86.base=/home/vladk/Unity/Projects/DarkForest/Temp/gradleOut/launcher/build/intermediates/merged_assets/release/out
 19.baseType=DIRECTORY
+110.path=bin/Data/Managed/UnityEngine.VideoModule.dll
 0.set=ASSET
 22.baseType=DIRECTORY
 26.path=bin/Data/Managed/Cinemachine.dll
@@ -344,6 +346,7 @@ count=110
 64.base=/home/vladk/Unity/Projects/DarkForest/Temp/gradleOut/launcher/build/intermediates/merged_assets/release/out
 56.path=bin/Data/Managed/UnityEngine.PhysicsModule.dll
 107.baseType=DIRECTORY
+110.baseType=DIRECTORY
 68.baseType=DIRECTORY
 28.baseType=DIRECTORY
 24.base=/home/vladk/Unity/Projects/DarkForest/Temp/gradleOut/launcher/build/intermediates/merged_assets/release/out
@@ -355,7 +358,7 @@ count=110
 102.path=bin/Data/Managed/System.IO.Compression.dll
 63.set=ASSET
 100.baseType=DIRECTORY
-109.path=bin/Data/Managed/UnityEngine.VideoModule.dll
+109.path=bin/Data/Managed/UnityEngine.CrashReportingModule.dll
 98.baseType=DIRECTORY
 55.set=ASSET
 18.path=bin/Data/Managed/UnityEngine.PerformanceReportingModule.dll
@@ -399,6 +402,7 @@ count=110
 95.path=bin/Data/Managed/System.Diagnostics.StackTrace.dll
 80.baseType=DIRECTORY
 40.baseType=DIRECTORY
+110.set=ASSET
 100.base=/home/vladk/Unity/Projects/DarkForest/Temp/gradleOut/launcher/build/intermediates/merged_assets/release/out
 102.set=ASSET
 109.baseType=DIRECTORY
@@ -414,7 +418,7 @@ count=110
 61.set=ASSET
 101.path=bin/Data/platform_native_link.xml
 53.set=ASSET
-108.path=bin/Data/Managed/UnityEngine.CrashReportingModule.dll
+108.path=bin/Data/Managed/Unity.RenderPipelines.Core.Runtime.dll
 63.baseType=DIRECTORY
 45.set=ASSET
 23.baseType=DIRECTORY

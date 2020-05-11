@@ -69,7 +69,7 @@ public class GameController : MonoBehaviour
 	}
 
 	void UpdateOrbs() {
-		OrbText.text = "Fire Orbs: " + orbs; 
+		OrbText.text = "X " + orbs; 
 	}
 
     public void GameOver() {

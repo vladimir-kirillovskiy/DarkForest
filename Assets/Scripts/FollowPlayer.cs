@@ -5,6 +5,7 @@ public class FollowPlayer : MonoBehaviour
     public Transform player; 
     public float keepDistanse = 5.0f;
     private Rigidbody2D rb;
+    private Vector2 lastPlayerPos;
 
 
 
@@ -20,6 +21,7 @@ public class FollowPlayer : MonoBehaviour
         if (player) {
 
             GameObject p_go = player.gameObject;
+            lastPlayerPos = p_go.transform.position;
 
             float diff = p_go.transform.position.x - transform.position.x;
 
@@ -56,7 +58,9 @@ public class FollowPlayer : MonoBehaviour
                 rb.velocity = new Vector2(v.x, 0.0f);
             }
 
-        }
+        } else {
+            rb.position = Vector2.MoveTowards(rb.position, lastPlayerPos, rb.velocity.x);
+        } 
     }
 
     private void OnTriggerEnter2D(Collider2D other) {
